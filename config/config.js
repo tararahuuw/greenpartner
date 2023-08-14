@@ -10,24 +10,24 @@ const {
 
 module.exports = {
   "development": {
-    "username": DB_USERNAME,
-    "password": DB_PASSWORD,
-    "database": DB_NAME,
-    "host": DB_HOST,
-    "dialect": DB_DIALECT
+    "username": "sql6639283",
+    "password": "fkc179PXPV",
+    "database": "sql6639283",
+    "host": "sql6.freesqldatabase.com",
+    "dialect": "mysql"
   },
   "test": {
-    "username": DB_USERNAME,
-    "password": DB_PASSWORD,
-    "database": DB_NAME,
-    "host": DB_HOST,
-    "dialect": DB_DIALECT
+    "username": "sql6639283",
+    "password": "fkc179PXPV",
+    "database": "sql6639283",
+    "host": "sql6.freesqldatabase.com",
+    "dialect": "mysql"
   },
   "production": {
-    "username": DB_USERNAME,
-    "password": DB_PASSWORD,
-    "database": DB_NAME,
-    "host": DB_HOST,
-    "dialect": DB_DIALECT
+    "username": "sql6639283",
+    "password": "fkc179PXPV",
+    "database": "sql6639283",
+    "host": "sql6.freesqldatabase.com",
+    "dialect": "mysql"
   }
 }
